@@ -1,7 +1,7 @@
 # 🤖 Chatbot using LangGraph & Streamlit
 📌 Project Overview
 
-This project is a simple conversational chatbot built using LangGraph for structured conversation flow and Streamlit for an interactive web interface.
+This project is a simple conversational chatbot which is deployed to render built using LangGraph for structured conversation flow and Streamlit for an interactive web interface.
 # 📱 Live App
 https://python-chatbot-11.onrender.com/
 
@@ -12,6 +12,8 @@ https://python-chatbot-11.onrender.com/
 🧠 Conversation flow management using LangGraph
 
 🔄 Maintains conversation state
+
+💻 Deployed to render 
 
 ⚡ Lightweight and easy to run locally
 
